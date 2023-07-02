@@ -11,3 +11,7 @@ One interesting change is that my implementation can allow momentum based optimi
 The selection of hyperparameters is very challenging, and I would strongly suggest incorporating some kind of tuning or external logging program (eg, wandb, tensorboard, comet).
 
 Enjoy!
+
+***
+An image from the notebook showing a demonstration of how the position swapping is done. More information in the notebook.
+![Swapping Weights](https://github.com/finnarchinuk/BIMT/blob/main/Swapped%20Weights.png)
